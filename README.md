@@ -1,3 +1,9 @@
+# Frontend do repositório Nautilus
+Este repositório faz parte do projeto Nautilus, toda documentação referente a ele pode ser encontrada no README.md do repositório principal no link:
+Repositório Principal: https://github.com/bolatechproducoes/nautilus
+
+![nautilus](https://github.com/bolatechproducoes/nautilus/blob/main/telaprincipal.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
